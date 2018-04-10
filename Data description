@@ -1,3 +1,22 @@
 
+
+2013, 2014, 2015 FILE DESCRIPTION
+================================================================================
+
+format:
+
 visa_type	fy::last_event_date::case_status::n_requested::n_certified::is_certified::job_title::employer_name::employer_state::employer_city
+
+
+- visa_type type of visa 
+- last_event_date last date action was taken
+- case_status status of the application
+- n_requested number of visas requested
+- n_certified number of visas approved
+- is_certified TRUE / FALSE approval
+- job_title job visa applied for
+- employer_name name of employer applying for visa
+- employer_state state employer is located
+- employer_city city employer is located
+
 
