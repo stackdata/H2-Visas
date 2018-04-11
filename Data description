@@ -5,10 +5,11 @@
 
 format:
 
-visa_type	fy::last_event_date::case_status::n_requested::n_certified::is_certified::job_title::employer_name::employer_state::employer_city
+visa_type::fy::last_event_date::case_status::n_requested::n_certified::is_certified::job_title::employer_name::employer_state::employer_city
 
 
-- visa_type type of visa 
+- visa_type type of visa
+- fy filing date
 - last_event_date last date action was taken
 - case_status status of the application
 - n_requested number of visas requested
